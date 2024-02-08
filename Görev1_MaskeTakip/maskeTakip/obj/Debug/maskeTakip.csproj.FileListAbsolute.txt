@@ -1,0 +1,7 @@
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\bin\Debug\maskeTakip.exe.config
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\bin\Debug\maskeTakip.exe
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\bin\Debug\maskeTakip.pdb
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\obj\Debug\maskeTakip.csproj.AssemblyReference.cache
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\obj\Debug\maskeTakip.csproj.CoreCompileInputs.cache
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\obj\Debug\maskeTakip.exe
+E:\C#Kampı-EnginHoca\maskeTakip\maskeTakip\obj\Debug\maskeTakip.pdb
